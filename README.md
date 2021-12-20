@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7liebee
-- 👀 I’m interested in C,C++,Qt,C#
-- 🌱 I’m currently learning C,C++,Qt,C#
-- 💞️ I’m looking to collaborate on C,C++,Qt,C#
+- 👀 I’m interested in C,C++,C#,Qt
+- 🌱 I’m currently learning C,C++,C#,Qt
+- 💞️ I’m looking to collaborate on C,C++,C#,Qt
 - 📫 How to reach me :liebee77@foxmail.com
 
 <!---
